@@ -1,2 +1,14 @@
-# NV.1
-NV.1 est un navigateur web moderne conçu pour offrir une expérience de navigation ultra-fluide, sécurisée et intuitive sur appareils mobiles (Android &amp; iOS) ainsi que sur le web. Alliant puissance technique et design épuré, NV.1 intègre nativement des fonctionnalités d'intelligence artificielle et une protection stricte de la vie privée.
+# NV.1 Browser
+
+Navigateur NV.1 développé avec React, Vite, Tailwind CSS et Capacitor.
+
+## Développement web
+
+    npm install
+    npm run dev
+
+## APK Android
+
+Le workflow GitHub Actions compile automatiquement un APK debug à chaque
+push sur `main`. Téléchargez-le dans l'onglet Actions, section Artifacts
+(NV1-Browser-debug).
